@@ -1,2 +1,2 @@
 # ml-engineer-learning-path
-Self learning guide for machine learning
+Self learning guide for Machine Learning
