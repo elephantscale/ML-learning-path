@@ -1,4 +1,7 @@
-## [Index for the whole series](summary.md)
+<link rel='stylesheet' href='assets/css/main.css'/>
+
+## [Contents](summary.md)
+---
 
 # A Machine Learning Engineer Learning Path - About
 
@@ -36,7 +39,7 @@ Unlike a new language  Machine Learning builds on lot of pre-requisites.
 - and more...
 
 
-<img src="images/ml-learning-bottom-up.png" style="border: 5px solid grey ; max-width:100%;" />
+<img src="assets/images/ml-learning-bottom-up.png" style="border: 5px solid grey ; max-width:100%;" />
 
 
 And these pre-requisites are *'hard science'*.  They take a lot of effort to master.  People spend years learning these topics and getting advanced degrees an PhDs in these subjects.
@@ -80,7 +83,7 @@ Rather than going too deep into each algorithm, we are learning a few algorithms
 
 Here is a diagram to illustrate our 'breath first approach'
 
-<img src="images/breadth-first.jpg" style="border: 5px solid grey ; max-width:100%;" />
+<img src="assets/images/breadth-first.jpg" style="border: 5px solid grey ; max-width:100%;" />
 
 
 ([image source](https://medium.com/basecs/breaking-down-breadth-first-search-cebe696709d9))
@@ -88,7 +91,7 @@ Here is a diagram to illustrate our 'breath first approach'
 
 Apply this to ML
 
-<img src="images/learning-ML-breadth-first.png" style="border: 5px solid grey ; max-width:100%;" />
+<img src="assets/images/learning-ML-breadth-first.png" style="border: 5px solid grey ; max-width:100%;" />
 
 
 ## But Wait, Won't I have gaps in my knowledge with this process?
@@ -100,10 +103,10 @@ I like to illustrate with a slice of Swiss cheese :-)
 Initially there are bunch of holes.  
 Eventually, as you learn more, the gaps fill up.  
 
-<img src="images/cheese-1.png" style="border: 5px solid grey ; max-width:100%;" />   
+<img src="assets/images/cheese-1.png" style="border: 5px solid grey ; max-width:100%;" />   
 
 
-<img src="images/cheese-2.png" style="border: 5px solid grey ; max-width:100%;" />
+<img src="assets/images/cheese-2.png" style="border: 5px solid grey ; max-width:100%;" />
 
 
 
@@ -111,7 +114,7 @@ Eventually, as you learn more, the gaps fill up.
 
 Here is my pyramid or totem pole of Data Science.
 
-<img src="images/data-science-pyramid.png" style="border: 5px solid grey ; max-width:100%;" />
+<img src="assets/images/data-science-pyramid.png" style="border: 5px solid grey ; max-width:100%;" />
 
 Here is the basic breakdown
 
@@ -133,6 +136,8 @@ Here is the basic breakdown
 - Have deep math/stat background
 - Decent coding skills
 
+
+### How NOT to learn Machine Learning
 I have seen too many people learning ML using APIs.  
 Here is how it goes.
 
@@ -153,3 +158,6 @@ Basically you should be able to
 
 Ready?
 Let's begin!
+
+---
+## [Contents](summary.md)
