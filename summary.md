@@ -4,3 +4,4 @@
 
 * [About](about.md)
 * [A Machine Learning platform](ml-platform.md)
+* [Basic Stats](stats-basic.md)
