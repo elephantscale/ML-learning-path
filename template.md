@@ -1,6 +1,9 @@
 <link rel='stylesheet' href='assets/css/main.css'/>
 
-## [Contents](summary.md)
+## [Contents](contents.md)
+
+[LICENSE](LICENSE.md)
+
 ---
 # Template
 
@@ -10,4 +13,7 @@
 
 
 ---
-## [Contents](summary.md)
+
+[LICENSE](LICENSE.md)
+
+## [Contents](contents.md)
