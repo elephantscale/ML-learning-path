@@ -5,12 +5,27 @@
 [LICENSE](LICENSE.md)
 
 ---
-# Template
+# Heading
 
-## H2
+## Resources
+### Generic
+* One
 
-### H3
+### Specific
+* Two
 
+---
+
+## Checklist
+You should know the following
+* One
+* Two
+
+---
+
+## Exercises
+
+### EX-1: Do somethign
 
 ---
 

@@ -1,6 +1,6 @@
 <link rel='stylesheet' href='assets/css/main.css'/>
 
-## [Contents](summary.md)
+## [Contents](contents.md)
 ---
 
 # A Machine Learning Engineer Learning Path - About
@@ -161,4 +161,4 @@ Ready?
 Let's begin!
 
 ---
-## [Contents](summary.md)
+## [Contents](contents.md)
