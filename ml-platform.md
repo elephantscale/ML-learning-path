@@ -1,7 +1,7 @@
 <link rel='stylesheet' href='assets/css/main.css'/>
 
 
-## [Contents](summary.md)
+## [Contents](contents.md)
 
 # Selecting a platform for Machine Learning
 
@@ -27,7 +27,7 @@ Here are a few good choices
     - Provides a scale
     - ML Libraries : Spark ML
 
-## Pick First
+## First Choice : Python
 You can't go wrong with any of the above.  
 
 **My suggestion is you learn PYTHON.**
@@ -44,7 +44,7 @@ Here is why
 
 ### [Here are our links for learning Python](learn-python.md)
 
-## Pick Second :-)
+## Second Pick: Spark
 Once you are comfortable in Python, I'd recommend also learning Spark.  Here is why:
 - When you have more data that can be handled by a single computer, we need to use cluster computing to crunch all that data
 - Spark is a popular distributed computing framework.  It allows us to process large amount of data
@@ -53,4 +53,4 @@ Once you are comfortable in Python, I'd recommend also learning Spark.  Here is 
 
 ### [Here are our links for learning Spark](learn-spark.md)
 
-## [Contents](summary.md)
+## [Contents](contents.md)

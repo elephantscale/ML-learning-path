@@ -2,6 +2,11 @@
 
 # ML Engineer Learning Path
 
+## Intro
 * [About](about.md)
+
+## ML-Platform
 * [A Machine Learning platform](ml-platform.md)
-* [Basic Stats](stats-basic.md)
+
+## Basics
+* [Basic Stats](stats-1.md)

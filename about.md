@@ -114,7 +114,7 @@ Eventually, as you learn more, the gaps fill up.
 
 Here is my pyramid or totem pole of Data Science.
 
-<img src="assets/images/data-science-pyramid.png" style="border: 5px solid grey ; max-width:100%;" />
+<img src="assets/images/data-science-totem-pole.png" style="border: 5px solid grey ; max-width:100%;" />
 
 Here is the basic breakdown
 
@@ -127,6 +127,7 @@ Here is the basic breakdown
 - Can use API
 - Do understand algorithm fundamentals
 - Has good coding skills
+- Can scale their code to work on large datasets
 
 **Data Scientists**
 - Can use APIs

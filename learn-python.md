@@ -1,7 +1,7 @@
 <link rel='stylesheet' href='assets/css/main.css'/>
 
 
-## [Contents](summary.md)
+## [Contents](contents.md)
 ---
 # Resources for Learning Python
 
@@ -10,10 +10,10 @@
 ### 1.1 : Learn
 There are tons of resources for learning Python.  Here are a few
 - Start with this one :
-[Byte of Python](https://www.gitbook.com/book/swaroopch/byte-of-python/details)— FREE, very good intro book
-- Then try this : [Dive into python](http://www.diveintopython.net/): FREE, more detailed good 2nd book
+[Byte of Python](https://python.swaroopch.com/) - FREE, very good intro book
+- Then try this : [Dive into python](https://diveintopython3.problemsolving.io/): FREE, more detailed good 2nd book
 - [Learn Python3 the hard way](https://learnpythonthehardway.org/python3/)
-- [Google python class](https://developers.google.com/edu/python/?csw=1) – popular online class
+- [Google python class](https://developers.google.com/edu/python/?csw=1) - popular online class
 
 
 ### 1.2 - Practice, Practice and Practice
@@ -64,4 +64,4 @@ Here we will focus on Numpy and Pandas packages
 ### 2.2 - Pandas Resources
 
 ---
-## [Contents](summary.md)
+## [Contents](contents.md)

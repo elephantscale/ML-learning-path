@@ -1,6 +1,6 @@
 <link rel='stylesheet' href='assets/css/main.css'/>
 
-## [Contents](summary.md)
+## [Contents](contents.md)
 ---
 # Learn Spark
 Here are links to go and learn Spark
@@ -15,4 +15,4 @@ Here are links to go and learn Spark
 - [Processing unstructured data with Spark](https://elephantscale.com/processing-unstructured-text-data-spark-2-apis/)
 
 ---
-## [Contents](summary.md)
+## [Contents](contents.md)
