@@ -42,7 +42,7 @@ Here is why
 - Python has very easy to use UIs.  My favorite is Jupyter notebooks. They are web based, light weight and easy to use
 - There are lots of FREE and open source resources to learn Python
 
-### [Here are our links for learning Python](learn-python.md)
+### [Here are our links for learning Python](python-learn.md)
 
 ## Second Pick: Spark
 Once you are comfortable in Python, I'd recommend also learning Spark.  Here is why:
@@ -51,6 +51,6 @@ Once you are comfortable in Python, I'd recommend also learning Spark.  Here is 
 - Spark has a built in Machine Learning library that you can utilize out of the box
 - And the best news is Spark has Python API (in addition to Scala, Java and R)
 
-### [Here are our links for learning Spark](learn-spark.md)
+### [Here are our links for learning Spark](spark-learn.md)
 
 ## [Contents](contents.md)

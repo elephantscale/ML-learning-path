@@ -8,7 +8,7 @@ It is good to refresh some stats for ML.
 ## Prerequisites
 In order to do these exercises, you need to learn the stats functions in your ML platform (Python, Java, R ..etc.).  
 For Python it is Numpy.  
-Refer to our [Numpy](learn-python.md#numpy) section to learn the basics of Numpy.
+Refer to our [Numpy](python-learn.md#numpy) section to learn the basics of Numpy.
 
 
 
