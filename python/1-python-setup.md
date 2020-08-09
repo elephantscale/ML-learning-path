@@ -1,6 +1,6 @@
 <link rel='stylesheet' href='assets/css/main.css'/>
 
-## [Contents](contents.md)
+## [Contents](../contents.md)
 
 [LICENSE](LICENSE.md)
 
@@ -63,9 +63,12 @@ Start as follows
     $   jupyter lab
 ```
 
+In browser, go to Jupter page;  Usually at [localhost:8888](http://localhost:8888)
+
+
 ### Step 2D: Test the Setup
-Use this notebook to see if your enviromnet is setup
-[TODO : Testing123](#)
+Use this notebook to see if your environment is setup
+[Testing123](https://github.com/elephantscale/learning-path-for-ML-labs/blob/master/python/testing-123.ipynb) notebook
 
 ---
 
@@ -84,10 +87,6 @@ You should have access to an python machine learning environment
 
 ---
 
-## Data
-
----
-
 [LICENSE](LICENSE.md)
 
-## [Contents](contents.md)
+## [Contents](../contents.md)

@@ -1,3 +1,5 @@
+<link rel='stylesheet' href='assets/css/main.css'/>
+
 # ML Engineer Learning Path
 
 [LICENSE](LICENSE.md)
@@ -16,7 +18,7 @@
 * [Setting up a Spark ML environment](spark-setup.md)
 
 ## Python Basics
-* [Python Basics](python-learn.md)
+[Python Basis](python/0-README.md)
 
 ## Exploratory Data Analysis (EDA)
 * [Basic Stats](stats-1.md)
