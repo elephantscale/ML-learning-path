@@ -14,12 +14,17 @@
 - Python has very easy to use UIs.  My favorite is Jupyter notebooks. They are web based, light weight and easy to use
 - There are lots of FREE and open source resources to learn Python
 
-## Python Setup
-* **PYTHON-1** - [setting-up-python-env.md](1-python-setup.md)
-* **PYTHON-2** -  Get familiar with Jupyter environment.
-    - Download this [hello-jupyter notebook](https://github.com/elephantscale/learning-path-for-ML-labs/blob/master/python/hello-jupyter.ipynb) and go through it
+## Getting Started With Python
+* **PYTHON-1** - [Getting started with Python](1-python-getting-started.md)
+
+## Jupyter Notebooks
+* **PYTHON-2** - [Learn Jupyter Notebook](2-jupyter-notebook.md)
 
 ## Python Basics
 
 ## Python Learning Resources
 [Python resources](python-resources.md)
+
+---
+
+## [Contents](../contents.md)

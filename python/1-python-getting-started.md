@@ -1,9 +1,6 @@
 <link rel='stylesheet' href='../assets/css/main.css'/>
 
-## [Contents](../contents.md)
-
-[LICENSE](LICENSE.md)
-
+## [Contents](../contents.md) / [Python](0-README.md)
 ---
 # Setting Up a Python Machine Learning Development Environment
 
@@ -82,11 +79,10 @@ Follow the instructions for each Docker
 
 ---
 
+
 ## Checklist
-You should have access to an python machine learning environment
+At this point, you should
+- have access to a Python development environment
 
 ---
-
-[LICENSE](LICENSE.md)
-
-## [Contents](../contents.md)
+## [Contents](../contents.md) / [Python](0-README.md)
