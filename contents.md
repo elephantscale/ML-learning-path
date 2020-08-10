@@ -17,8 +17,5 @@ Get [data](data.md) to practice ML
 ## Python Basics
 [Python Basis](python/0-README.md)
 
-## Exploratory Data Analysis (EDA)
-* [Basic Stats](stats-1.md)
-
 ---
 [LICENSE](LICENSE.md)

@@ -16,7 +16,7 @@ Learn Jupyter notebook environment
 * [Jupyter Tips and Tricks video](https://www.youtube.com/watch?v=2eCHD6f_phE)
 
 ## Exercises
-* Here is a [sample notebook](https://github.com/elephantscale/learning-path-for-ML-labs/blob/master/python/hello-jupyter.ipynb) you can start from
+* Here is a [sample notebook](https://github.com/elephantscale/learning-path-for-ML-labs/blob/master/python/2-hello-jupyter.ipynb) you can start from
 
 ## Checklist
 At this point, you should

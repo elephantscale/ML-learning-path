@@ -65,7 +65,7 @@ In browser, go to Jupter page;  Usually at [localhost:8888](http://localhost:888
 
 ### Step 2D: Test the Setup
 Use this notebook to see if your environment is setup
-[Testing123](https://github.com/elephantscale/learning-path-for-ML-labs/blob/master/python/testing-123.ipynb) notebook
+[Testing123](https://github.com/elephantscale/learning-path-for-ML-labs/blob/master/python/1-testing-123.ipynb) notebook
 
 ---
 

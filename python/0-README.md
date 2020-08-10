@@ -21,6 +21,11 @@
 * **PYTHON-2** - [Learn Jupyter Notebook](2-jupyter-notebook.md)
 
 ## Python Basics
+* **PYTHON-3** - [Bacis of Python](3-basics.md) - Work with numbers, strings and operators
+
+## Control Statements
+* **PYTHON-4** - [Control Statements](4-control.md) - if/else conditions and loops
+
 
 ## Python Learning Resources
 [Python resources](python-resources.md)
