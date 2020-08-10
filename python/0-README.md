@@ -26,6 +26,8 @@
 ## Control Statements
 * **PYTHON-4** - [Control Statements](4-control.md) - if/else conditions and loops
 
+## Data Structures
+* **PYTHON-5** - [Data structures](5-data-structures.md) - Work with arrays, lists, sets and dictionaries
 
 ## Python Learning Resources
 [Python resources](python-resources.md)
