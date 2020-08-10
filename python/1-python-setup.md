@@ -1,4 +1,4 @@
-<link rel='stylesheet' href='assets/css/main.css'/>
+<link rel='stylesheet' href='../assets/css/main.css'/>
 
 ## [Contents](../contents.md)
 

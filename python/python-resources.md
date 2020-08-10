@@ -1,7 +1,7 @@
-<link rel='stylesheet' href='assets/css/main.css'/>
+<link rel='stylesheet' href='../assets/css/main.css'/>
 
 
-## [Contents](contents.md)
+## [Contents](../contents.md)
 ---
 # Resources for Learning Python
 
@@ -64,4 +64,4 @@ Here we will focus on Numpy and Pandas packages
 ### 2.2 - Pandas Resources
 
 ---
-## [Contents](contents.md)
+## [Contents](../contents.md)

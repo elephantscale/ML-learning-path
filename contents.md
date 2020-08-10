@@ -7,15 +7,12 @@
 ---
 
 ## Intro
-* [About](about.md)
+* [About this guide](about.md)
+* [Top down learning](top-down-learning.md)
+* [Credits](credits.md)
 
 ## Data
-- [Datasets](data.md)
-
-## ML-Platform
-* [A Machine Learning platform](ml-platform.md)
-* [Setting up a python ML environment](python-setup.md)
-* [Setting up a Spark ML environment](spark-setup.md)
+Get [data](data.md) to practice ML
 
 ## Python Basics
 [Python Basis](python/0-README.md)
