@@ -1,6 +1,7 @@
 <link rel='stylesheet' href='../assets/css/main.css'/>
 
 ## [Contents](../contents.md)
+
 ---
 
 # Python Basics
@@ -15,21 +16,27 @@
 - There are lots of FREE and open source resources to learn Python
 
 ## Getting Started With Python
+
 * **PYTHON-1** - [Getting started with Python](1-python-getting-started.md)
 
 ## Jupyter Notebooks
+
 * **PYTHON-2** - [Learn Jupyter Notebook](2-jupyter-notebook.md)
 
 ## Python Basics
+
 * **PYTHON-3** - [Bacis of Python](3-basics.md) - Work with numbers, strings and operators
 
 ## Control Statements
+
 * **PYTHON-4** - [Control Statements](4-control.md) - if/else conditions and loops
 
 ## Data Structures
+
 * **PYTHON-5** - [Data structures](5-data-structures.md) - Work with arrays, lists, sets and dictionaries
 
 ## Python Learning Resources
+
 [Python resources](python-resources.md)
 
 ---
