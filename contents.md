@@ -20,5 +20,9 @@ Get [data](data.md) to practice ML
 
 [Python Basis](python/0-README.md)
 
+## Python Data Analysis
+
+[Python Data Analysis](python-data-analysis/0-README.md)
+
 ---
 [LICENSE](LICENSE.md)
