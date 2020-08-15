@@ -2,12 +2,15 @@
 
 
 ## [Contents](../contents.md)
+
 ---
+
 # Resources for Learning Python
 
 ## Part 1 : Core Python
 
 ### 1.1 : Learn
+
 There are tons of resources for learning Python.  Here are a few
 - Start with this one :
 [Byte of Python](https://python.swaroopch.com/) - FREE, very good intro book
@@ -17,6 +20,7 @@ There are tons of resources for learning Python.  Here are a few
 
 
 ### 1.2 - Practice, Practice and Practice
+
 The best way to get comfortable in a language is to practice.  
 Try the following exercises.   
 Remember,  you can do them in any order..there is no sequence to follow   
@@ -34,6 +38,7 @@ Remember,  you can do them in any order..there is no sequence to follow
 - [Intermediate Python projects](http://wiki.openhatch.org/Intermediate_Python_Workshop/Projects)
 
 ### 1.3 - Check List
+
 Be comfortable in
 - Jupyter notebooks
 - Defining variables ([exercise](https://github.com/elephantscale/learning-coding/blob/master/basics.md))
@@ -46,22 +51,29 @@ Be comfortable in
 - lambdas and functions ([exercise](https://github.com/elephantscale/learning-coding/blob/master/functions.md))
 
 #### Optional, nice to know
+
 - Functional programming ([exercise](https://github.com/elephantscale/learning-coding/blob/master/functional-programming.md))
 - regex ([exercise](https://github.com/elephantscale/learning-coding/blob/master/regex.md))
 
 
 ## Part 2 - Data Manipulation in Python
+
 Here we will focus on Numpy and Pandas packages
 
 <a name="numpy"></a>
+
 ### 2.1 - Numpy Resources
+
 - https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/
 - https://www.dataquest.io/blog/numpy-tutorial-python/
 - https://www.tutorialspoint.com/numpy
 - https://cs231n.github.io/python-numpy-tutorial/
 
 <a name="pandas"></a>
+
 ### 2.2 - Pandas Resources
 
+
 ---
+
 ## [Contents](../contents.md)

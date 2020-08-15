@@ -1,12 +1,15 @@
 <link rel='stylesheet' href='../assets/css/main.css'/>
 
 ## [Contents](../contents.md) / [Python](0-README.md)
+
 ---
+
 # Python Data Structures
 
-### Objective
+## Objective
+
 Learn the data structures in python
-- arrays
+
 - lists
 - sets
 - dictionaries
@@ -14,14 +17,16 @@ Learn the data structures in python
 ## Reference
 
 ### Essentials
+
 * From [Byte of Python](https://python.swaroopch.com/) read the following chapters
-    - [Data structures](https://python.swaroopch.com/data_structures.html)
+  - [Data structures](https://python.swaroopch.com/data_structures.html)
 * From [Dive into Python3](https://diveintopython3.problemsolving.io), read the following chapters
-    - [Native data types](https://diveintopython3.problemsolving.io/native-datatypes.html) - Read sections on Lists, Sets and Dictionaries
+  - [Native data types](https://diveintopython3.problemsolving.io/native-datatypes.html) - Read sections on Lists, Sets and Dictionaries
 
 ## Exercises
 
 ### Lists - A - Easy
+
 - LIST-A1 - Create a list of 10,20,30,40,50
 - LIST-A2 - Append 60 to the end of list
 - LIST-A3 - insert 5 at the front of list
@@ -40,13 +45,16 @@ a = [7,3,5,6,10,11,23]
 ### List - B - Medium
 
 #### LIST-B1 - Two lists
+
 a = [1,5,2,10,7,4,6]  
 b = [1,4,3]  
+
 * print all numbers common to a / b
 * print all numbers unique to a (not in b)
 * build another list (c) that has common elements
 
 #### LIST-B2 - Remove duplicates
+
 a = [3,2,1,5,2,1,6,5]  
 Remove duplicates from a
 
@@ -55,8 +63,10 @@ Remove duplicates from a
 ### Dictionary - A - Easy
 
 #### DICT-A1 - Create a map
+
 Create a dictionary  with following contents
-```
+
+```text
     a -> 2,
     c -> 5,
     b -> 1,
@@ -66,24 +76,30 @@ Create a dictionary  with following contents
 #### DICT-A2 - Loop through a map and print all key value pairs
 
 #### DICT-A3 - given a key, get a value
+
 what is the value for key 'a'?  
 what is the value for key 'x' ?
 
 #### DICT-A4 - add a Key-value to map
+
 Add `e -> 4` to the above map
 
 #### DICT-A5 - Check if given key is in a map?
+
 key : 'a'  
 key : 'x'
 
 #### DICT-A6 - create a dict that returns a default value for non existing keys
+
 For example the dict has following KV
-```
+
+```text
     a -> 2,
     c -> 5,
     b -> 1,
     d -> 3
 ```
+
 existing key : d['a'] --> 2  
 non existing key returns zero : d['x'] --> 0
 
@@ -93,18 +109,20 @@ non existing key returns zero : d['x'] --> 0
 ### Dictionary - B - Medium
 
 #### DICT-B1 - de-dupe
+
 - Create a list of 50 random numbers between 1 and 100 (including).  
 - print only unique numbers from the list, eliminating duplicates
 
 #### DICT-B2 : Get the frequency of the elements in a list.
 
-
 ---
 
-
 ## Checklist
+
 At this point, you should be comfortable with
+
 - Using lists, arrays, dictionaries in your programming
 
 ---
+
 ## [Contents](../contents.md) / [Python](0-README.md)

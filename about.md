@@ -1,6 +1,7 @@
 <link rel='stylesheet' href='assets/css/main.css'/>
 
 ## [Contents](contents.md)
+
 ---
 
 
@@ -17,4 +18,5 @@ This guide is created and maintained by [Sujee Maniyam](https://elephantscale.co
 [Full Credits](credits.md)
 
 ---
+
 ## [Contents](contents.md)

@@ -1,11 +1,15 @@
 <link rel='stylesheet' href='../assets/css/main.css'/>
 
 ## [Contents](../contents.md) / [Python](0-README.md)
+
 ---
+
 # Control Statemnets
 
-### Objective
+## Objective
+
 Learn
+
 - if / else conditionals
 - for loops
 - while loops
@@ -13,8 +17,9 @@ Learn
 ## Reference
 
 ### Essentials
+
 * From [Byte of Python](https://python.swaroopch.com/) read the following chapters
-    - [Control flow](https://python.swaroopch.com/control_flow.html)
+  - [Control flow](https://python.swaroopch.com/control_flow.html)
 
 ## Exercises
 
@@ -23,11 +28,13 @@ Learn
 #### A1  - Write if/else to print if a number if odd or even
 
 #### A2 - Write if-else-if-else to print grade.  
+
 If score > 90 grade is A.  
 If score is between 80 and 90 then grade is B.  
 If score is between 70 and 80 then grade is C.  
 
 #### A3 - Write a 'ternary' operator in one line.  
+
 if score > 50 ? print("pass") : print ("fail")
 
 ### Loops
@@ -42,10 +49,13 @@ if score > 50 ? print("pass") : print ("fail")
 
 
 ## Checklist
-At this point, you should
+
+At this point, you should:
+
 - be comfortable writing if / else statements
 - writing for loops
 - writing while loops
 
 ---
+
 ## [Contents](../contents.md) / [Python](0-README.md)
