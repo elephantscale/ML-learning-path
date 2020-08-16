@@ -11,7 +11,7 @@ There are few options
 - Option 1: Cloud platforms
 - Option 2: Native setup of your machine
 - Option 3: Running a docker container
-- Finally, get some data.  See our [data page](data.md)
+- Finally, get some data.  See our [data page](../data.md)
 
 ## Option 1: Cloud Platforms
 
