@@ -16,8 +16,11 @@ We will cover:
 
 ## Numpy
 
-* **NUMPY-1** - [Numpy Introduction](1-numpy.md)
+* **NUMPY-1** - [Numpy Introduction](np-1__numpy-intro.md)
 
+## Pandas 
+
+* **PANDAS-1** - [Pandas intro](pd-1__pandas-intro.md)
 
 ---
 

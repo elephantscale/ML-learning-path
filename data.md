@@ -13,6 +13,7 @@ Machine learning requires data.  Below, you will find some good data sources you
 - [Elephant Scale dataset](https://s3.amazonaws.com/elephantscale-public/data/data.zip) - We have curated some popular public datasets here.  Easy to use
 - [UCI data repository](https://archive.ics.uci.edu/ml/index.php)
 - [Kaggle dataset](https://www.kaggle.com/datasets)
+- [r/datasets](https://www.reddit.com/r/datasets/) - Great place to find, discuss datasets
 
 ---
 
