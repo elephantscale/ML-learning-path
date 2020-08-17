@@ -20,7 +20,7 @@ We will cover:
 
 ## Pandas 
 
-* **PANDAS-1** - [Pandas intro](pd-2__pandas-intro.md)
+* **PANDAS-1** - [Pandas intro](pd-1__pandas-intro.md)
 
 ---
 

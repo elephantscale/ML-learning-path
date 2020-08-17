@@ -14,7 +14,7 @@ Learn Numpy
 
 ### Essentials (★☆☆)
 
-- Read [Ch 2  - Numpy](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) from the excellent open source book [Python Data Science Book](https://jakevdp.github.io/PythonDataScienceHandbook/index.html) is an excellent introduction to Numpy 
+- [Numpy chapter](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html) from the excellent open source book [Python Data Science Book](https://jakevdp.github.io/PythonDataScienceHandbook/index.html) is an excellent introduction to Numpy 
   - [Data types](https://jakevdp.github.io/PythonDataScienceHandbook/02.01-understanding-data-types.html)
   - [Basics of numpy arrays](https://jakevdp.github.io/PythonDataScienceHandbook/02.02-the-basics-of-numpy-arrays.html)
 - Array slicing
