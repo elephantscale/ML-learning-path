@@ -14,15 +14,19 @@
 
 ## Data
 
-Get [data](data.md) to practice ML
+* Get [data](data.md) to practice ML
 
 ## Python Basics
-
-[Python Basis](python/0-README.md)
+* [Why Python](python/0-README.md)
+* **PYTHON-1** - [Getting started with Python](python/1-python-getting-started.md)
+* **PYTHON-2** - [Learn Jupyter Notebook](python/2-jupyter-notebook.md)
+* **PYTHON-3** - [Bacis of Python](python/3-basics.md) - Work with numbers, strings and operators
+* **PYTHON-4** - [Control Statements](python/4-control.md) - if/else conditions and loops
+* **PYTHON-5** - [Data structures](python/5-data-structures.md) - Work with arrays, lists, sets and dictionaries
+* [Python resources](python/python-resources.md)
 
 ## Python Data Analysis
-
-[Python Data Analysis](python-data-analysis/0-README.md)
-
+* **NUMPY-1** - [Numpy Introduction](python-data-analysis/np-1__numpy-intro.md)
+* **PANDAS-1** - [Pandas intro](python-data-analysis/pd-1__pandas-intro.md)
 ---
 [LICENSE](LICENSE.md)
