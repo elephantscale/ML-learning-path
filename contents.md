@@ -37,6 +37,7 @@ Useful links for ML.
 
 * **NUMPY-1** - [Numpy Introduction](python-data-analysis/np-1__numpy-intro.md)
 * **PANDAS-1** - [Pandas intro](python-data-analysis/pd-1__pandas-intro.md)
+* **VIZ-1** - [Visualizations intro](python-data-analysis/viz-1__viz-intro.md)
 
 
 ---
