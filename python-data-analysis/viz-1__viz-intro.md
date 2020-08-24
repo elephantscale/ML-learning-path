@@ -18,6 +18,12 @@ Learn graphing and visualization in Python
 
 ### Essentials (★☆☆)
 
+#### Generic
+
+* [5 Data Visualization Best Practices](https://www.gooddata.com/blog/5-data-visualization-best-practices-0)
+
+#### Visualization in Python
+* [Graph libraries in Python](https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed) - A good overview of graphics libraries in Python
 * [Python graph gallery](https://python-graph-gallery.com/) is the ultimate website with lots of sample graph and code for both Matplot and Seaborn
 * [Visualization section](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html) from the excellent open source book [Python Data Science Book](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 * Seaborn aims to give prettier graphs out of the box
@@ -28,7 +34,8 @@ Learn graphing and visualization in Python
 
 After completing the exercises below, you should be comfortable with
 
-- Creating visualizations using matplot and seaborn
+* Creating visualizations using matplot and seaborn
+* What is the difference between Seaborn vs Matplotlib?
 
 ## Exercises
 
@@ -82,7 +89,16 @@ Unknown   8
 
 ### Exercises 
 
-#### EX-1 - Visualize pokemon data (★★☆)
+#### EX-1: Visualize Housing Dataset
+
+- Data: [house-sales.csv](https://elephantscale-public.s3.amazonaws.com/data/house-prices/house-sales-simplified.csv)
+- Visualize the following
+  - Number of sales per bedrooms (bar plot or Pie)
+  - Average house price per bedrooms (box plot)
+  - Relationship between 'SQFT' vs 'Sale Price' (Scatter plot)
+  - Any other interesting plots you can come up with
+
+#### EX-2 - Visualize pokemon data (★★☆)
 
 Download [pokemon data](https://s3.amazonaws.com/elephantscale-public/data/pokemon/pokemon-small.csv)
 
