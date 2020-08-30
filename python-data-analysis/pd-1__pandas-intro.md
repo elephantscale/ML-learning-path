@@ -169,7 +169,14 @@ Read the [house-sales-sample.csv](https://elephantscale-public.s3.amazonaws.com/
 
 Hint: `pd.read_csv`
 
-**E2 - And how many sales for 'Bedrooms = 4' (★☆☆)**
+**E2 - Print out the column types of the above dataframe (★☆☆)**  
+Hint: `df.dtypes`
+
+**E3 - Print out the information about the above dataframe.  Note the datatypes and memory usage (★☆☆)**  
+Hint: `df.info()`
+
+**E4 - And how many sales for 'Bedrooms = 4' (★☆☆)**  
+Hint: `query` or df indexing or `size`
 
 ### More Exercices
 
