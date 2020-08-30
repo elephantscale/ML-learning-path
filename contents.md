@@ -39,6 +39,7 @@ Useful links for ML.
 * **PANDAS-1** - [Pandas intro](python-data-analysis/pd-1__pandas-intro.md)
 * **VIZ-1** - [Visualizations intro](python-data-analysis/viz-1__viz-intro.md)
 * **STATS-1** - [Basic stats](python-data-analysis/stats-1__basic-stats.md)
+* **DATA-1** - [Data cleansing](python-data-analysis/data-1__data-cleansing.md)
 
 
 ---
