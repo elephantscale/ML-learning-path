@@ -153,7 +153,7 @@ Expected output:
 2    Los Angeles          30       5.5
 ```
 
-**D2 - Print rows where population > 10 and rainfal < 10> (★★☆)**  
+**D2 - Print rows where population > 10 and rainfal < 10 (★★☆)**  
 
 Expected output:
 
