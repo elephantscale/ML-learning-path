@@ -1,6 +1,6 @@
 <link rel='stylesheet' href='../assets/css/main.css'/>
 
-## [Contents](../contents.md) / [Python Data Analysis](0-README.md)
+## [Index](../README.md)/ [Python Data Analysis](0-README.md)
 
 ---
 
@@ -27,6 +27,7 @@ Learn cleaning up  messy data
 
 ### Extra Reading
 
+* [Imputing missing data](https://heartbeat.fritz.ai/hands-on-with-feature-engineering-techniques-imputing-missing-values-6c22b49d4060)
 * [Data cleansing in python](https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d)
 * [Pandas cleanup video](https://www.youtube.com/watch?v=iYie42M1ZyU)
 
@@ -107,4 +108,4 @@ Hint : `Zipcode`
 
 ---
 
-## [Contents](../contents.md) / [Python Data Analysis](0-README.md)
+## [Index](../README.md)/ [Python Data Analysis](0-README.md)

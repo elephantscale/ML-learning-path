@@ -1,6 +1,6 @@
 <link rel='stylesheet' href='../assets/css/main.css'/>
 
-## [Contents](../contents.md) / [Python](0-README.md)
+## [Index](../README.md)/ [Python](0-README.md)
 
 ---
 
@@ -133,4 +133,4 @@ Remove duplicates from a
 
 ---
 
-## [Contents](../contents.md) / [Python](0-README.md)
+## [Index](../README.md)/ [Python](0-README.md)

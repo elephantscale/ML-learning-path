@@ -1,7 +1,7 @@
 <link rel='stylesheet' href='../assets/css/main.css'/>
 
 
-## [Contents](../contents.md)
+## [Index](../README.md)
 
 ---
 
@@ -76,4 +76,4 @@ Here we will focus on Numpy and Pandas packages
 
 ---
 
-## [Contents](../contents.md)
+## [Index](../README.md)

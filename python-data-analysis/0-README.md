@@ -1,6 +1,6 @@
 <link rel='stylesheet' href='../assets/css/main.css'/>
 
-## [Contents](../contents.md)
+## [Index](../README.md)
 ---
 
 # Python Data Analytics
@@ -24,4 +24,4 @@ We will cover:
 
 ---
 
-## [Contents](../contents.md)
+## [Index](../README.md)

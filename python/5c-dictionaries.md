@@ -1,6 +1,6 @@
 <link rel='stylesheet' href='../assets/css/main.css'/>
 
-## [Contents](../contents.md) / [Python](0-README.md)
+## [Index](../README.md)/ [Python](0-README.md)
 
 ---
 
@@ -121,4 +121,4 @@ The expected output is :
 ---
 
 
-## [Contents](../contents.md) / [Python](0-README.md)
+## [Index](../README.md)/ [Python](0-README.md)

@@ -1,6 +1,6 @@
 <link rel='stylesheet' href='../assets/css/main.css'/>
 
-## [Contents](../contents.md) / [Python](0-README.md)
+## [Index](../README.md)/ [Python](0-README.md)
 
 ---
 
@@ -36,4 +36,4 @@ After completing the exercises below, you should be comfortable with
 
 ---
 
-## [Contents](../contents.md) / [Python](0-README.md)
+## [Index](../README.md)/ [Python](0-README.md)

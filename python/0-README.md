@@ -1,6 +1,6 @@
 <link rel='stylesheet' href='../assets/css/main.css'/>
 
-## [Contents](../contents.md)
+## [Index](../README.md)
 
 ---
 
@@ -41,4 +41,4 @@
 
 ---
 
-## [Contents](../contents.md)
+## [Index](../README.md)
