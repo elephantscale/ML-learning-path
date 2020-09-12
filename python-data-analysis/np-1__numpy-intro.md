@@ -1,6 +1,6 @@
 <link rel='stylesheet' href='../assets/css/main.css'/>
 
-## [Contents](../contents.md) / [Python Data Analysis](0-README.md)
+## [Index](../README.md)/ [Python Data Analysis](0-README.md)
 
 ---
 
@@ -139,4 +139,4 @@ Hint: `np.concatenate`
 
 ---
 
-## [Contents](../contents.md) / [Python Data Analysis](0-README.md)
+## [Index](../README.md)/ [Python Data Analysis](0-README.md)

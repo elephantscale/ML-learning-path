@@ -1,6 +1,6 @@
 <link rel='stylesheet' href='../assets/css/main.css'/>
 
-## [Contents](../contents.md) / [Python Data Analysis](0-README.md)
+## [Index](../README.md)/ [Python Data Analysis](0-README.md)
 
 ---
 
@@ -189,4 +189,4 @@ Hint: `query` or df indexing or `size`
 
 ---
 
-## [Contents](../contents.md) / [Python Data Analysis](0-README.md)
+## [Index](../README.md)/ [Python Data Analysis](0-README.md)

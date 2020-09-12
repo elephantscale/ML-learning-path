@@ -1,6 +1,6 @@
 <link rel='stylesheet' href='../assets/css/main.css'/>
 
-## [Contents](../contents.md) / [Python Data Analysis](0-README.md)
+## [Index](../README.md)/ [Python Data Analysis](0-README.md)
 
 ---
 
@@ -62,4 +62,4 @@ At this point, you should be comfortable with
 
 ---
 
-## [Contents](../contents.md) / [Python Data Analysis](0-README.md)
+## [Index](../README.md)/ [Python Data Analysis](0-README.md)

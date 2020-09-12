@@ -1,6 +1,6 @@
 <link rel='stylesheet' href='../assets/css/main.css'/>
 
-## [Contents](../contents.md) / [Python Data Analysis](0-README.md)
+## [Index](../README.md)/ [Python Data Analysis](0-README.md)
 
 ---
 
@@ -146,4 +146,4 @@ Hint: You may need to find the average attack points per type first
 
 ---
 
-## [Contents](../contents.md) / [Python Data Analysis](0-README.md)
+## [Index](../README.md)/ [Python Data Analysis](0-README.md)
