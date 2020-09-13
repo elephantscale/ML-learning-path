@@ -1,10 +1,6 @@
-<link rel='stylesheet' href='../assets/css/main.css'/>
-
-## [Index](../README.md)
-
----
-
 # Feature Engineering - Introduction
+
+[Back to Index](../README.md)
 
 ## Objective
 
@@ -64,4 +60,4 @@ Come up with your assesment of outier detection.
 
 ---
 
-## [Index](../README.md)/ [Python Data Analysis](0-README.md)
+## [Index](../README.md)

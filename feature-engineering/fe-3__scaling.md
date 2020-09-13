@@ -1,10 +1,6 @@
-<link rel='stylesheet' href='../assets/css/main.css'/>
-
-## [Index](../README.md)
-
----
-
 # Feature Engineering - Scaling
+
+[Back to Index](../README.md
 
 ## Objective
 
@@ -78,4 +74,4 @@ Inspect the data, and scale all numeric columns
 
 ---
 
-## [Index](../README.md)/ [Python Data Analysis](0-README.md)
+## [Index](../README.md)
