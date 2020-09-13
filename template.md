@@ -1,23 +1,22 @@
-<link rel='stylesheet' href='assets/css/main.css'/>
 
-## [Contents](contents.md)
-
-[LICENSE](LICENSE.md)
-
----
 # Heading
 
-## Resources
-### Generic
+[back to Index](README.md)
+
+## Essential Reading
+
 * One
 
-### Specific
+## More Reading
+
 * Two
 
 ---
 
 ## Checklist
+
 You should know the following
+
 * One
 * Two
 
@@ -29,6 +28,4 @@ You should know the following
 
 ---
 
-[LICENSE](LICENSE.md)
-
-## [Contents](contents.md)
+## [Index](Index.md)

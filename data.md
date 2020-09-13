@@ -1,6 +1,6 @@
-<link rel='stylesheet' href='assets/css/main.css'/>
-
 # Data
+
+[Back to Index](../README.md)
 
 Machine learning requires data.  Below, you will find some good data sources you can start with
 
@@ -20,6 +20,4 @@ You should have access to some datasets for ML.
 
 ---
 
-[LICENSE](LICENSE.md)
-
-## [Contents](contents.md)
+## [Index](README.md)
