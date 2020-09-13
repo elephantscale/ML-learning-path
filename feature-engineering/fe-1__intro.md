@@ -17,19 +17,18 @@ Learn feature engineering
 * [Why data prep is important](https://machinelearningmastery.com/data-preparation-is-important/)
 * [Feature Engineering, how and why](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
 
-
 ### Extra Reading
 
 * [Fundamental Techniques of Feature Engineering for Machine Learning](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
 * [Feature Engineering exercises @ Kaggle](https://www.kaggle.com/learn/feature-engineering)
 
-
 ## Checklist
 
 After completing the exercises below, you should be comfortable with
 
-* Creating visualizations using matplot and seaborn
-* What is the difference between Seaborn vs Matplotlib?
+- understand why feature engineering is very important in machine learning
+- have a good overview of feature engineering tasks
+- picking features that are relevant
 
 ## Exercises
 
@@ -58,8 +57,6 @@ We also need to take `zipcode` into account when determining prices.
 
 So our final assesment, we need to calculate prices  per-bedroom, per-zipcode.  
 Come up with your assesment of outier detection.
-
-
 
 ### More Exercices
 
