@@ -1,5 +1,3 @@
-<link rel='stylesheet' href='assets/css/main.css'/>
-
 # A Learning Path for Machine Learning (ML)
 
 A guided self learning path for Machine Learning  
@@ -33,9 +31,9 @@ Useful links for ML.
 
 * Get [data](data.md) to practice ML
 
-### Part 1 - Prerequisites for ML
+## Part 1 - Prerequisites for ML
 
-#### Python Basics
+### Python Basics
 
 * [Why Python](python/0-README.md)
 * **PYTHON-1** - [Getting started with Python](python/1-python-getting-started.md)
@@ -45,7 +43,7 @@ Useful links for ML.
 * **PYTHON-5** - [Data structures](python/5-data-structures.md) - Work with arrays, lists, sets and dictionaries
 * [Python resources](python/python-resources.md)
 
-#### Python Data Analysis
+### Python Data Analysis
 
 * **NUMPY-1** - [Numpy Introduction](python-data-analysis/np-1__numpy-intro.md)
 * **PANDAS-1** - [Pandas intro](python-data-analysis/pd-1__pandas-intro.md)
@@ -53,10 +51,18 @@ Useful links for ML.
 * **STATS-1** - [Basic stats](python-data-analysis/stats-1__basic-stats.md)
 * **DATA-1** - [Data cleansing](python-data-analysis/data-1__data-cleansing.md)
 
-### Part 2 - Essential Machine Learning
+## Part 2 - Essential Machine Learning
 
-#### Feature Engineering
+### Feature Engineering
 
 * **FE-1** - [Feature engineering - intro](feature-engineering/fe-1__intro.md)
 * **FE-2** - [Feature engineering - variable encoding](feature-engineering/fe-2__variable-encoding.md)
 * **FE-3** - [Feature engineering - scaling data](feature-engineering/fe-3__scaling.md)
+
+### Intro to Machine Learning
+
+* [Understanding Machine Learning](machine-learning.md)
+
+### SciKit-Learn Library
+
+* **SCIKIT-1**  - [Introduction to Scikit-Learn](scikit-learn/scikit-learn-1.md)

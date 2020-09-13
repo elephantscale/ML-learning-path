@@ -1,10 +1,6 @@
-<link rel='stylesheet' href='../assets/css/main.css'/>
-
-## [Index](../README.md)
-
----
-
 # Feature Engineering - Variable Encoding
+
+[Back to Index](../README.md)
 
 ## Objective
 
@@ -71,10 +67,8 @@ Read [prosper-data-simplified.csv](https://s3.amazonaws.com/elephantscale-public
 
 Inspect the data, and identify categorical variables to encode.  Use appropriate encoding
 
-
 ### More Exercices
-
 
 ---
 
-## [Index](../README.md)/ [Python Data Analysis](0-README.md)
+## [Index](../README.md)
