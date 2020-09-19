@@ -10,6 +10,7 @@ Learn to scale features
 
 ### Essential Reading
 
+* [Scaling vs. Normalization](https://kharshit.github.io/blog/2018/03/23/scaling-vs-normalization)
 * [How to Use StandardScaler and MinMaxScaler Transforms in Python](https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/)
 * [Data normalization with Pandas and Scikit-Learn](https://towardsdatascience.com/data-normalization-with-pandas-and-scikit-learn-7c1cc6ed6475)
 
