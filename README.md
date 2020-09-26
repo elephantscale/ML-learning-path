@@ -68,3 +68,7 @@ Useful links for ML.
 ### SciKit-Learn Library
 
 * **SCIKIT-1**  - [Introduction to Scikit-Learn](scikit-learn/scikit-learn-1.md)
+
+### Linear Regression
+
+* **LR-1** [Linear Regression intro](linear-regression/lr-1__linear-regression.md)
