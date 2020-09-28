@@ -25,6 +25,7 @@ Learn Linear Regression
 ####  Understanding Errors and Residuals
 
 * [Tutorial: Understanding Regression Error Metrics in Python](https://www.dataquest.io/blog/understanding-regression-error-metrics/)
+* [MAE and RMSE — Which Metric is Better?](https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d)
 
 #### Implementing Linear Regression in Scikit-Learn
 
