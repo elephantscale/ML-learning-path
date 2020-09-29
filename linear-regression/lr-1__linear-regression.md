@@ -24,7 +24,7 @@ Learn Linear Regression
 
 #### Understanding Errors and Residuals
 
-* Read [Errors an Residuals section in ML-Concepts](../ml-concepts/ml-1__ML-Concepts-1.md#Errors_and_Residuals)
+* Read [Errors an Residuals section in ML-Concepts](../ml-concepts/ML-Concepts-1.md#Errors_and_Residuals)
 
 #### Implementing Linear Regression in Scikit-Learn
 
