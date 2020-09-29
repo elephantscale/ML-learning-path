@@ -14,7 +14,7 @@ Learn Linear Regression
 
 #### Basics of Linear Regression
 
-* ["Statistics PL14 - Simple Linear Regression" playlist](https://www.youtube.com/playlist?list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi) offers pretty good coverage of Linear Regression.  Start with the following videos
+* ["Statistics PL14 - Simple Linear Regression" playlist](https://www.youtube.com/playlist?list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi) - a video series by Brandon Foltz offers pretty good coverage of Linear Regression.  Start with the following videos
   - [Statistics 101: Linear Regression, The Very Basics](https://www.youtube.com/watch?v=ZkjP5RJLQF4&list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi&index=1&t=1128s&ab_channel=BrandonFoltz)
   - [Statistics 101: Linear Regression, Algebra, Equations, and Patterns](https://www.youtube.com/watch?v=iAgYLRy7e20&list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi&index=2&ab_channel=BrandonFoltz)
   - [Statistics 101: Linear Regression, The Least Squares Method](https://www.youtube.com/watch?v=Qa2APhWjQPc&list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi&index=3&ab_channel=BrandonFoltz)
@@ -22,10 +22,9 @@ Learn Linear Regression
   - [Statistics 101: Linear Regression, Standardized Regression](https://www.youtube.com/watch?v=_7pSUXwjEO8&list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi&index=5&ab_channel=BrandonFoltz)
   - [Statistics 101: Linear Regression, Understanding Model Error](https://www.youtube.com/watch?v=PhMlPvx1aoY&list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi&index=6&ab_channel=BrandonFoltz)
 
-####  Understanding Errors and Residuals
+#### Understanding Errors and Residuals
 
-* [Tutorial: Understanding Regression Error Metrics in Python](https://www.dataquest.io/blog/understanding-regression-error-metrics/)
-* [MAE and RMSE — Which Metric is Better?](https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d)
+* Read [Errors an Residuals section in ML-Concepts](../ml-concepts/ml-1__ML-Concepts-1.md#Errors_and_Residuals)
 
 #### Implementing Linear Regression in Scikit-Learn
 
@@ -35,6 +34,7 @@ Learn Linear Regression
 ### More Reading
 
 * Continue watching the rest of the videos in ["Statistics PL14 - Simple Linear Regression" playlist](https://www.youtube.com/playlist?list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi)
+* Ch 3 - Linear Regression (pages 59 - 126) from [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) book, covers some good theory and math behind LR
 
 ## Checklist
 
