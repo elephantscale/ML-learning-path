@@ -12,6 +12,7 @@ Learn feature engineering
 
 * [Why data prep is important](https://machinelearningmastery.com/data-preparation-is-important/)
 * [Feature Engineering, how and why](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
+* [Chapter 5. Basic feature engineering](https://learning.oreilly.com/library/view/real-world-machine-learning/9781617291920/kindle_split_015.html)  of the book [Real World Machine Learning](https://learning.oreilly.com/library/view/real-world-machine-learning/9781617291920/)
 
 ### Extra Reading
 
