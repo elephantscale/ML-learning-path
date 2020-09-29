@@ -25,6 +25,12 @@ The articles and videos referenced in this guide are owned, copyrighted by their
 * [Top down learning](top-down-learning.md)
 * [Credits](credits.md)
 
+### Books
+
+Provided as a reference. We will reference specific chapters throughout the guide.
+
+* [Recommended books](books.md) - lot of free books
+
 ### Meta Links
 
 Useful links for ML.
@@ -63,7 +69,8 @@ Useful links for ML.
 
 ### Intro to Machine Learning
 
-* [Understanding Machine Learning](machine-learning.md)
+* **ML-1**: [Understanding Machine Learning](machine-learning/ml-1__machine-learning-intro.md)
+* **ML-2**: [Doing Machine Learning](machine-learning/ml-2__doing-machine-learning.md)
 
 ### SciKit-Learn Library
 
@@ -72,3 +79,13 @@ Useful links for ML.
 ### Linear Regression
 
 * **LR-1** [Linear Regression intro](linear-regression/lr-1__linear-regression.md)
+
+### Logistic Regression
+
+* [Logistic Regression 1](logistic-regression/Logistic-Regression-1.md)
+
+### ML Concepts
+
+Cover this section as needed.
+
+* [ML-Concepts-1](ml-concepts/ML-Concepts-1.md)
