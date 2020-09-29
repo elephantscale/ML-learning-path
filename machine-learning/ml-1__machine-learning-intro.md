@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning  Introduction
 
 [Back to Index](README.md)
 
@@ -10,11 +10,16 @@
 - [7 types of machine learning - video](https://youtu.be/nKW8Ndu7Mjw)
 - [A gentle guide to machine learning](https://monkeylearn.com/blog/gentle-guide-to-machine-learning/)
 - [What ML can and can not do - a video by Andrew Ng](https://www.coursera.org/lecture/ai-for-everyone/what-machine-learning-can-and-cannot-do-rv1fW)
+- [Chapter 1. What is machine learning?](https://learning.oreilly.com/library/view/real-world-machine-learning/9781617291920/kindle_split_011.html) of [Real World Machine Learning book](https://learning.oreilly.com/library/view/real-world-machine-learning/9781617291920/) offers a great intro ML and use cases
 
 ### More Reading
 
 - I highly recommend ["AI for everyone" - video series by Andrew Ng](https://www.coursera.org/learn/ai-for-everyone) at Coursera
 - [Machine learning for beginners](https://towardsdatascience.com/machine-learning-for-beginners-d247a9420dab)
+
+### Little More Theory
+
+- [Ch 2 of Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) gives a pretty good overview of ML, with some essential math.
 
 ## Machine Learning for Developers
 
