@@ -84,7 +84,7 @@ Like the book above;  more rigorous treatment of maths
 
 ### MATH 253: Machine Learning (FREE)
 
-A great online book by  [Leslie Myint](https://lmyint.github.io/) - an Assistant Professor of Statistics at [Macalester College](https://www.macalester.edu/) in the [Department of Mathematics, Statistics, and Computer Science](https://www.macalester.edu/mscs/)
+A great [online book](https://lmyint.github.io/253_spring_2019/) by  [Leslie Myint](https://lmyint.github.io/) - an Assistant Professor of Statistics at [Macalester College](https://www.macalester.edu/) in the [Department of Mathematics, Statistics, and Computer Science](https://www.macalester.edu/mscs/)
 
 ## Book Lists
 
