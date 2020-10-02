@@ -1,8 +1,8 @@
-## [Index](README.md) 
+# Books for Machine Learning
+
+[Back to Index](README.md)
 
 ---
-
-# Books for Machine Learning
 
 This section is provided as a reference. We will reference specific chapters throughout the guide.  So **no need to** go through these books right now :-)
 
@@ -10,47 +10,47 @@ This section is provided as a reference. We will reference specific chapters thr
 
 ### Machine Learning Yearning (FREE)
 
-<img src="assets/images/machine-learning-yearning.jpg" style="width:25%;float:left;">
+<img src="assets/images/machine-learning-yearning.jpg" width="25%" align="left"/>
 
 Great book by Andrew Ng on how to run AI projects and building AI teams.
 
 Get it [here](https://www.deeplearning.ai/machine-learning-yearning/)
 
-<br clear="all">
+<br clear="all"/>
 
 ### Data Driven (FREE)
 
-<img src="assets/images/data-driven.jpg" style="width:25%;float:left;">
+<img src="assets/images/data-driven.jpg" width="25%" align="left">
 
 Get it [here](https://www.oreilly.com/library/view/data-driven/9781491925454/)
 
-<br clear="all">
+<br clear="all"/>
 
 ## Books for Hands On
 
 ### Python Data Science Handbook (FREE)
 
-<img src="assets/images/PDSH-cover.png" style="width:25%;float:left;">
+<img src="assets/images/PDSH-cover.png" width="25%" align="left">
 
 Read it online [here](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 Github [here](https://github.com/jakevdp/PythonDataScienceHandbook)
 
-<br clear="all">
+<br clear="all"/>
 
 ### Think Stats — Probability and Statistics for Programmers (FREE)
 
-<img src="assets/images/think-stats.jpg" style="width:25%;float:left;">
+<img src="assets/images/think-stats.jpg" width="25%" align="left">
 
 Really good book by Allen B. Downey.
 
 Download it from [here](http://greenteapress.com/thinkstats/)
 
-<br clear="all">
+<br clear="all"/>
 
 ### Real World Machine Learning ($)
 
-<img src="assets/images/real-word-machine-learning.jpg" style="width:25%;float:left;">
+<img src="assets/images/real-word-machine-learning.jpg" width="25%" align="left" >
 
 Really great book on introducing ML.  
 
@@ -64,7 +64,7 @@ Buy it at [Amazon](https://www.amazon.com/Real-World-Machine-Learning-Henrik-Bri
 
 ### An Introduction to Statistical Learning (FREE)
 
-<img src="assets/images/introduction-to-statistical-learining.jpg" style="width:25%;float:left;">
+<img src="assets/images/introduction-to-statistical-learning.jpg" width="25%" align="left">
 
 A gentle introduction to machine learning; NOT heavy on maths.  A really good book!
 
@@ -74,7 +74,7 @@ A gentle introduction to machine learning; NOT heavy on maths.  A really good bo
 
 ### The Elements of Statistical Learning (FREE)
 
-<img src="assets/images/elements-of-statistical-learning.jpg" style="width:25%;float:left;">
+<img src="assets/images/elements-of-statistical-learning.jpg" width="25%" align="left">
 
 Like the book above;  more rigorous treatment of maths
 
@@ -82,10 +82,13 @@ Like the book above;  more rigorous treatment of maths
 
 <br clear="all">
 
+### MATH 253: Machine Learning (FREE)
+
+A great online book by  [Leslie Myint](https://lmyint.github.io/) - an Assistant Professor of Statistics at [Macalester College](https://www.macalester.edu/) in the [Department of Mathematics, Statistics, and Computer Science](https://www.macalester.edu/mscs/)
+
 ## Book Lists
 
 * [11 Free Books On Machine Learning & Data Science](https://analyticsindiamag.com/top-11-free-books-on-machine-learning-and-data-science-that-you-must-read/)
-
 
 ---
 
