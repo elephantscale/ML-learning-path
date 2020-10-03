@@ -1,18 +1,18 @@
-## [Index](../README.md) 
+# Linear Regression Intro
+
+[Back to Index](../README.md)
 
 ---
-
-# Linear Regression Intro
 
 ## Objective
 
 Learn Linear Regression
 
-## Reference
 
-### Essentials (★☆☆)
+## Essential Reading
 
-#### Basics of Linear Regression
+
+### Basics of Linear Regression
 
 * ["Statistics PL14 - Simple Linear Regression" playlist](https://www.youtube.com/playlist?list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi) - a video series by Brandon Foltz offers pretty good coverage of Linear Regression.  Start with the following videos
   - [Statistics 101: Linear Regression, The Very Basics](https://www.youtube.com/watch?v=ZkjP5RJLQF4&list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi&index=1&t=1128s&ab_channel=BrandonFoltz)
@@ -22,16 +22,16 @@ Learn Linear Regression
   - [Statistics 101: Linear Regression, Standardized Regression](https://www.youtube.com/watch?v=_7pSUXwjEO8&list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi&index=5&ab_channel=BrandonFoltz)
   - [Statistics 101: Linear Regression, Understanding Model Error](https://www.youtube.com/watch?v=PhMlPvx1aoY&list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi&index=6&ab_channel=BrandonFoltz)
 
-#### Understanding Errors and Residuals
+### Understanding Errors and Residuals
 
-* Read [Errors an Residuals section in ML-Concepts](../ml-concepts/ML-Concepts-1.md#Errors_and_Residuals)
+* Read [Errors an Residuals section in Regressions](regressions.md#Errors_and_Residuals)
 
-#### Implementing Linear Regression in Scikit-Learn
+### Implementing Linear Regression in Scikit-Learn
 
 * [Linear Regression for Machine Learning](https://machinelearningmastery.com/linear-regression-for-machine-learning/)
 * [Linear Regression wit Scikit-Learn - a tutorial](https://www.kdnuggets.com/2019/03/beginners-guide-linear-regression-python-scikit-learn.html)
 
-### More Reading
+## Extra Reading
 
 * Continue watching the rest of the videos in ["Statistics PL14 - Simple Linear Regression" playlist](https://www.youtube.com/playlist?list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi)
 * Ch 3 - Linear Regression (pages 59 - 126) from [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) book, covers some good theory and math behind LR
@@ -61,8 +61,6 @@ Learn Linear Regression
 ★★☆  - Medium  
 ★★★  - Challenging  
 ★★★★ - Bonus
-
-### More Exercises
 
 #### Ex-1 - Practice regression with synthetic data (★☆☆)
 

@@ -1,16 +1,17 @@
-## [Index](../README.md)
+# Regressions
+
+[Back to Index](../README.md)
 
 ---
 
-# Machine Learning Concepts
+## Essential Reading
 
-## Objective
+### Understanding Regressions
 
-Understand basic ML concepts
+* [7 types of regression techniques you should know in Machine Learning](https://www.analyticssteps.com/blogs/7-types-regression-technique-you-should-know-machine-learning)
+* [What are the best use cases of regression?](https://www.quora.com/What-are-the-best-use-cases-of-regression)
 
-## Reference
-
-<a name="Errors_and_Residuals">
+<a name="Errors_and_Residuals"/>
 
 ### Understanding Errors and Residuals
 
@@ -18,8 +19,14 @@ Understand basic ML concepts
 * [Tutorial: Understanding Regression Error Metrics in Python](https://www.dataquest.io/blog/understanding-regression-error-metrics/)
 * [MAE and RMSE — Which Metric is Better?](https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d)
 
+## Extra Reading
+
 ## Checklist
 
+Check your knowledge:
+
+* When will you use regression?
+* What are some regression algorithms?
 * Know what is an error / residual
 * Understand different error metrics
   - Sum of Squared Error (SSE)
@@ -35,7 +42,3 @@ Understand basic ML concepts
 ★★☆  - Medium  
 ★★★  - Challenging  
 ★★★★ - Bonus
-
----
-
-## [Index](../README.md)
