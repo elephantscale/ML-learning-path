@@ -76,16 +76,24 @@ Useful links for ML.
 
 * **SCIKIT-1**  - [Introduction to Scikit-Learn](scikit-learn/scikit-learn-1.md)
 
-### Linear Regression
+### Regression
 
-* **LR-1** [Linear Regression intro](linear-regression/lr-1__linear-regression.md)
+* [Understanding Regressions](regressions/regressions.md)
 
-### Logistic Regression
+#### Linear Regression
 
-* [Logistic Regression 1](logistic-regression/Logistic-Regression-1.md)
+* **LR-1** [Linear Regression intro](regressions/lr-1__linear-regression.md)
+
+### Classification
+
+* [Introduction to classifications](classifications/classifications.md)
+
+#### Logistic Regression
+
+* [Logistic Regression](classifications/logit-1__logistic-regression-1.md)
 
 ### ML Concepts
 
 Cover this section as needed.
 
-* [ML-Concepts-1](ml-concepts/ML-Concepts-1.md)
+* [ML-Concepts-1](machine-learning/ML-Concepts-1.md)
