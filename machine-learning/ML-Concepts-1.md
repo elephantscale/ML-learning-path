@@ -1,8 +1,6 @@
-## [Index](../README.md)
-
----
-
 # Machine Learning Concepts
+
+[Back to Index](../README.md)
 
 ## Objective
 
