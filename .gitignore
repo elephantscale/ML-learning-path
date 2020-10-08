@@ -1,0 +1,9 @@
+# generic
+.DS_Store
+*.out
+*.zip
+*.log
+
+
+# Jekyll
+_site
