@@ -94,6 +94,10 @@ Useful links for ML.
 
 * [Logistic Regression](classifications/logit-1__logistic-regression-1.md)
 
+### Support Vector Machines (SVM)
+
+* [SVM](classifications/svm-1.md)
+
 ### ML Concepts
 
 Cover this section as needed.
