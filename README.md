@@ -98,6 +98,10 @@ Useful links for ML.
 
 * [SVM](classifications/svm-1.md)
 
+### Naive Bayes (NB)
+
+* [Naive Bayes](classifications/naive-bayes-1.md)
+
 ### ML Concepts
 
 Cover this section as needed.
