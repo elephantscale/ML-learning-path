@@ -102,6 +102,10 @@ Useful links for ML.
 
 * [Naive Bayes](classifications/naive-bayes-1.md)
 
+### Model Validation
+
+* [Model selection using Cross Validation](machine-learning/model-validation.md)
+
 ### ML Concepts
 
 Cover this section as needed.
