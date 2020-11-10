@@ -13,7 +13,7 @@ Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
 ## Copyright and Ownership
 
-This guide is copyrighted to Sujee Maniyam and Elephant Scale Inc (2020)
+This guide is created by and copyrighted to Sujee Maniyam (2020)
 
 The articles and videos referenced in this guide are owned, copyrighted by their respective owners.
 
@@ -74,6 +74,13 @@ Useful links for ML.
 * **ML-1**: [Understanding Machine Learning](machine-learning/ml-1__machine-learning-intro.md)
 * **ML-2**: [Doing Machine Learning](machine-learning/ml-2__doing-machine-learning.md)
 
+### Algorithms Overview
+
+* [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+* [ML Algorithm cheat sheet](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet)
+* [101 Machine Learning Algorithms for Data Science with Cheat Sheets](https://www.r-bloggers.com/2019/07/101-machine-learning-algorithms-for-data-science-with-cheat-sheets/)
+* [Scikit cheat sheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+
 ### SciKit-Learn Library
 
 * **SCIKIT-1**  - [Introduction to Scikit-Learn](scikit-learn/scikit-learn-1.md)
@@ -105,6 +112,12 @@ Useful links for ML.
 ### Model Validation
 
 * [Model selection using Cross Validation](machine-learning/model-validation.md)
+
+### Tree Algorithms
+
+Trees can do both regression and classification tasks
+
+* [Decision Trees](trees/decision-trees.md)
 
 ### ML Concepts
 

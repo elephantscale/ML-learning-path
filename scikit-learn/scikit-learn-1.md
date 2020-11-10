@@ -9,9 +9,12 @@
 
 * [An Introduction to Scikit Learn](https://towardsdatascience.com/an-introduction-to-scikit-learn-the-gold-standard-of-python-machine-learning-e2b9238a98ab)
 * [Introduction to Scikit-Learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html)  from [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-
-
 * [Scikit-Learn online documentation](https://scikit-learn.org/stable/index.html) is very extensive and thorough
+
+## Scikit Algorithms Overview and Cheatsheet
+
+* [Scikit cheat sheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+* [Another good cheat sheet from datacamp](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf)
 
 ## Setting up Scikit
 
