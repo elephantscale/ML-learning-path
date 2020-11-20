@@ -119,6 +119,7 @@ Trees can do both regression and classification tasks
 
 * [Decision Trees](trees/decision-trees.md)
 * [Random Forest](trees/random-forest.md)
+* [Boost Trees](trees/boost-trees.md)
 
 ### ML Concepts
 
