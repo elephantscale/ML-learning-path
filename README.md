@@ -118,6 +118,7 @@ Useful links for ML.
 Trees can do both regression and classification tasks
 
 * [Decision Trees](trees/decision-trees.md)
+* [Random Forest](trees/random-forest.md)
 
 ### ML Concepts
 
