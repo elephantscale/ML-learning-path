@@ -85,6 +85,8 @@ Useful links for ML.
 
 * **SCIKIT-1**  - [Introduction to Scikit-Learn](scikit-learn/scikit-learn-1.md)
 
+## Supervised Algorithms 
+
 ### Regression
 
 * [Understanding Regressions](regressions/regressions.md)
@@ -120,6 +122,12 @@ Trees can do both regression and classification tasks
 * [Decision Trees](trees/decision-trees.md)
 * [Random Forest](trees/random-forest.md)
 * [Boost Trees](trees/boost-trees.md)
+
+## Unsupervised Algorithms
+
+### Clustering
+
+* [KMeans](clustering/kmeans.md)
 
 ### ML Concepts
 
