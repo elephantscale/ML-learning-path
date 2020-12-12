@@ -96,3 +96,7 @@ Trees can do both regression and classification tasks
 ### Clustering
 
 * [KMeans](clustering/kmeans.md)
+
+### Dimension Reduction
+
+* [PCA](dimension-reduction/pca.md)
