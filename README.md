@@ -125,12 +125,8 @@ Trees can do both regression and classification tasks
 
 ## Unsupervised Algorithms
 
+* [Unsupervised learning overview](machine-learning/unsupervised.md)
+
 ### Clustering
 
 * [KMeans](clustering/kmeans.md)
-
-### ML Concepts
-
-Cover this section as needed.
-
-* [ML-Concepts-1](machine-learning/ML-Concepts-1.md)
