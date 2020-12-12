@@ -1,10 +1,8 @@
-<link rel='stylesheet' href='../assets/css/main.css'/>
+# Python Data Structures - Dictionaries
 
-## [Index](../README.md)/ [Python](0-README.md)
+[Index](../README.md)/ [Python](0-README.md)
 
 ---
-
-# Python Data Structures - Dictionaries
 
 ## Objective
 
@@ -117,8 +115,3 @@ The expected output is :
 ### More Exercises
 
 - <https://www.w3resource.com/python-exercises/dictionary/>
-
----
-
-
-## [Index](../README.md)/ [Python](0-README.md)
