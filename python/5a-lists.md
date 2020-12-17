@@ -1,10 +1,8 @@
-<link rel='stylesheet' href='../assets/css/main.css'/>
+# Python Data Structures - List
 
-## [Index](../README.md)/ [Python](0-README.md)
+[Index](../README.md)/ [Python](0-README.md)
 
 ---
-
-# Python Data Structures - List
 
 ## Objective
 
@@ -131,6 +129,19 @@ Expected answer : `False`
 `a = [3,2,1,5,2,1,6,5]`  
 Remove duplicates from a
 
----
+#### EX-3 - Process word list
 
-## [Index](../README.md)/ [Python](0-README.md)
+Print out words in a sentence that are longer than 3
+
+```python
+sentence = 'I like to program in Python'
+
+words = sentence.split(' ') # words is a list
+print (words)
+
+## TODO : iterate through the word list and print out words that are longer than 3 
+```
+
+### More Exercises
+
+* https://www.w3resource.com/python-exercises/list/ 
