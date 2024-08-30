@@ -2,7 +2,7 @@
 
 A guided self learning path for Machine Learning  
 
-[Book home](https://elephantscale.github.io/guided-machine-learning/)
+[Website](https://elephantscale.github.io/ML-learning-path/) 
 
 ## License
 
